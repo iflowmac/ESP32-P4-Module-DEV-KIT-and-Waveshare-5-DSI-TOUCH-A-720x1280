@@ -143,7 +143,7 @@ display:
 
     lanes: 2
     # exakt berechnet: (60226000 * 16) / 2 = 481.808 MHz
-    lane_bit_rate: 481808000
+    lane_bit_rate: 600Mbit
 
     color_order: rgb
     pixel_mode: 16bit
